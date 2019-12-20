@@ -1,0 +1,18 @@
+Civi Renew Membership
+
+This software runs from the command line an updates the Membership based on the past contributions.
+
+I have a number of membership types that include the string month or year or life and I use these
+strings to determine how long to extend the membership end date. The status is also updated to current,
+grace or expired depending on the date.
+
+This software won't work for other configurations without some modification but I hope it gives you 
+some ideas what can be done. I may create an extension, based on this concept, that is run when a 
+contribution is added.
+
+Don't run this software unless you understand what it is doing. Make sure you backup before using 
+any software like this.
+
+I don't guarantee that the software is written the best way and it certainly is not quick.
+
+Martin
